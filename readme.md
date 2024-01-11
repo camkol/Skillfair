@@ -3,7 +3,8 @@
 ## Components
 
 1. HTML
-2. CSS
+   -Bootstrap
+1. CSS
 
 ## Notes
 
